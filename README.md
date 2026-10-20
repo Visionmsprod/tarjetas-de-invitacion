@@ -7,12 +7,11 @@ Este paquete contiene tu invitación digital interactiva lista para publicarse e
 ```
 ├── index.html        <- Tu invitación web completa con Sobre Digital interactivo
 ├── media/            <- Carpeta con todas tus fotos y música desacopladas
-│   ├── foto-principal.png
+│   ├── foto-principal.jpg
 │   ├── personaje-sticker.png
 │   ├── galeria-1.jpg
 │   ├── galeria-2.jpg
 │   ├── galeria-3.jpg
-│   ├── musica.mpeg
 └── README.md         <- Instrucciones para GitHub Pages
 ```
 
